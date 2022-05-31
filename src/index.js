@@ -1,6 +1,16 @@
+/**
+ * index.js
+ * 
+ * Este é o ficheiro mais importante!
+ * Porque é o primeiro a ser executado...
+ */
+
+//importar as bibliotecas necessárias ao funcionamento do React
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+//importar recursos
 import './index.css';
+//importar os Componentes a usar neste Componente
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
